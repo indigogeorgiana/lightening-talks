@@ -32,7 +32,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Sam : Alan Turing
 4. Name: Topic
 
 
@@ -63,7 +63,7 @@
 
 * Famous Programmers
   - [ ] Ada Lovelace
-  - [ ] Alan Turing
+  - [x] Alan Turing
   - [ ] Audrey Tang
   - [ ] Brendan Eich
   - [ ] Charles Babbidge
