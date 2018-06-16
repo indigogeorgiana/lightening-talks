@@ -33,7 +33,7 @@
 1. Name: Topic
 2. Name: Topic
 3. Sam : Alan Turing
-4. Name: Topic
+4. Rachael: Angular
 
 
 ## Topics
@@ -59,7 +59,7 @@
   - [ ] Lodash
   - [ ] rx.js (hard)
   - [ ] Immutable.js
-  - [ ] Angular
+  - [x] Angular
 
 * Famous Programmers
   - [ ] Ada Lovelace
