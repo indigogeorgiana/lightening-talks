@@ -15,7 +15,7 @@
 ### Tuesday
 
 1. Cornelia: CouchDB
-2. Name: Topic
+2. Caitlyn: Audrey Tang
 3. Name: Topic
 4. Name: Topic
 
