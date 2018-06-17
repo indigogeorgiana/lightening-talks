@@ -22,7 +22,7 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Name: Anthony
 2. Name: Topic
 3. Shane: Database index
 4. Indi: rx.js
@@ -51,7 +51,7 @@
 
 * Algorithms
   - [ ] Common sorting algorithms
-  - [ ] Binary search & Git bisect
+  - [X] Binary search & Git bisect
   - [ ] Big O notation
 
 * JavaScript libraries
