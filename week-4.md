@@ -62,9 +62,9 @@
   - [x] Angular
 
 * Famous Programmers
-  - [x] Ada Lovelace
+  - [ ] Ada Lovelace
   - [x] Alan Turing
-  - [ ] Audrey Tang
+  - [x] Audrey Tang
   - [ ] Brendan Eich
   - [ ] Charles Babbidge
 
