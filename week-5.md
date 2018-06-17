@@ -22,10 +22,10 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Cornelia: map and set
 2. Name: Topic
 3. Name: Topic
-4. Name: Topic
+4. Indi: David Hansson
 
 
 ### Thursday
@@ -53,7 +53,7 @@
   - [ ] Fundamentals of encryption
 
 * ECMAScript 6 (ES6)
-  - [ ] `Map` and `Set`
+  - [x] `Map` and `Set`
   - [ ] Asynchronous JavaScript with Generators
   - [ ] Babel & Transpiling
 
