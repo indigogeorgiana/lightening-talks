@@ -23,7 +23,7 @@
 ### Wednesday
 
 1. Anthony: Binary search & Git bisect
-2. Name: Topic
+2. Michael: Big O Notation
 3. Shane: Database index
 4. Indi: rx.js
 
@@ -52,7 +52,7 @@
 * Algorithms
   - [ ] Common sorting algorithms
   - [X] Binary search & Git bisect
-  - [ ] Big O notation
+  - [X] Big O notation
 
 * JavaScript libraries
   - [ ] Zepto
