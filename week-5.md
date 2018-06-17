@@ -39,7 +39,7 @@
 ## Topics
 
 * Famous Programmers
-  - [ ] David Heinemeier Hansson (DHH)
+  - [x] David Heinemeier Hansson (DHH)
   - [ ] Grace Hopper
   - [ ] Ken Thompson
   - [ ] Linus Torvalds
