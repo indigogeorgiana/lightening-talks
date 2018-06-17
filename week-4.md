@@ -24,7 +24,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Shane: Database index
 4. Indi: rx.js
 
 
@@ -39,7 +39,7 @@
 ## Topics
 
 * Relational databases
-  - [ ] Database indexes
+  - [X] Database indexes
   - [ ] DDL, DNL, DCL, TCL
   - [ ] SQL joins (left, right, inner, outer, full)
 
