@@ -22,10 +22,10 @@
 
 ### Wednesday
 
-1. Name: Topic
+1. Cornelia: Model View Controller
 2. Name: Topic
 3. Name: Topic
-4. Name: Topic
+4. Indi: three.js
 
 
 ### Thursday
@@ -41,11 +41,11 @@
 * Design patterns
   - [ ] Strategy Design Pattern
   - [ ] Observer Design Pattern
-  - [ ] Model View Controller (MVC)
+  - [x] Model View Controller (MVC)
 
 * JavaScript libraries
   - [ ] CycleJS
-  - [ ] Three.js
+  - [x] Three.js
   - [ ] D3.js
   - [ ] Ember
 
