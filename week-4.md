@@ -14,7 +14,7 @@
 
 ### Tuesday
 
-1. Name: Topic
+1. Cornelia: CouchDB
 2. Name: Topic
 3. Name: Topic
 4. Name: Topic
@@ -25,7 +25,7 @@
 1. Name: Topic
 2. Name: Topic
 3. Name: Topic
-4. Name: Topic
+4. Indi: rx.js
 
 
 ### Thursday
@@ -46,7 +46,7 @@
 * NoSQL databases
   - [ ] Neo4J
   - [ ] MongoDB
-  - [ ] CouchDB
+  - [X] CouchDB
   - [ ] [Secure Scuttlebutt](https://ssbc.github.io/secure-scuttlebutt/) (hard)
 
 * Algorithms
@@ -57,7 +57,7 @@
 * JavaScript libraries
   - [ ] Zepto
   - [ ] Lodash
-  - [ ] rx.js (hard)
+  - [x] rx.js (hard)
   - [ ] Immutable.js
   - [x] Angular
 
