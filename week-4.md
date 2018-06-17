@@ -22,7 +22,7 @@
 
 ### Wednesday
 
-1. Name: Anthony
+1. Anthony: Binary search & Git bisect
 2. Name: Topic
 3. Shane: Database index
 4. Indi: rx.js
