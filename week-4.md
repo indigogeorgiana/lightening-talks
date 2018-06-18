@@ -16,7 +16,7 @@
 
 1. Cornelia: CouchDB
 2. Caitlyn: Audrey Tang
-3. Name: Topic
+3. Bron: Common Sorting Algorithms
 4. Name: Topic
 
 
@@ -50,7 +50,7 @@
   - [ ] [Secure Scuttlebutt](https://ssbc.github.io/secure-scuttlebutt/) (hard)
 
 * Algorithms
-  - [ ] Common sorting algorithms
+  - [X] Common sorting algorithms
   - [X] Binary search & Git bisect
   - [X] Big O notation
 
