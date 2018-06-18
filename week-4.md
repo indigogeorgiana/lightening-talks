@@ -16,7 +16,7 @@
 
 1. Cornelia: CouchDB
 2. Caitlyn: Audrey Tang
-3. Bron: Common Sorting Algorithms
+3. Name: Topic
 4. Name: Topic
 
 
@@ -30,7 +30,7 @@
 
 ### Thursday
 
-1. Name: Topic
+1. Bron: Common Sorting Algorithms
 2. Name: Topic
 3. Sam : Alan Turing
 4. Rachael: Angular
