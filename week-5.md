@@ -23,7 +23,7 @@
 ### Wednesday
 
 1. Cornelia: map and set
-2. Name: Topic
+2. Shane: SQL Injection attack
 3. Name: Topic
 4. Indi: David Hansson
 
@@ -47,7 +47,7 @@
 
 * Security
   - [ ] CORS
-  - [ ] SQL Injection attack
+  - [x] SQL Injection attack
   - [ ] Cross site scripting
   - [ ] Heartbleed SSH vulnerability
   - [ ] Fundamentals of encryption
