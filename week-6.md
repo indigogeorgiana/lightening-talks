@@ -24,7 +24,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Shane: Model View Controller
 4. Indi: three.js
 
 
@@ -41,7 +41,7 @@
 * Design patterns
   - [ ] Strategy Design Pattern
   - [ ] Observer Design Pattern
-  - [ ] Model View Controller (MVC)
+  - [x] Model View Controller (MVC)
 
 * JavaScript libraries
   - [ ] CycleJS
