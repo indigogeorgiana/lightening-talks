@@ -16,7 +16,7 @@
 
 1. Name: Topic
 2. Name: Topic
-3. Name: Topic
+3. Name: Ember
 4. Name: Topic
 
 
@@ -47,7 +47,7 @@
   - [ ] CycleJS
   - [x] Three.js
   - [ ] D3.js
-  - [ ] Ember
+  - [x] Ember
 
 * Famous Programmers
   - [ ] Richard Stallman
